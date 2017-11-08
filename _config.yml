@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: clean-blog
+theme: hexo-theme-clean-blog
 
 # Header
 menu:
@@ -81,7 +81,7 @@ menu:
   Tags: /tags
   Categories: /categories
   Github:
-    url: https://github.com/sochanchanhee/sochanchanhee.github.io
+    url: https://github.com/sochanchanhee
     icon: github
 
 # Deployment
